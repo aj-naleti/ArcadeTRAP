@@ -1,0 +1,6 @@
+;; *************** HUD_INCLUDES.dat ***************
+;; HUD includes export. Saturday, April 18, 2026 1:20:47 AM
+
+DrawTilesDirect #HUD_BANK, HUD__0_0_STRING, #1, #2, #HUD_OFFSET
+DrawVariableTiles #6, #2, #BOX_0_ASSET_1_MAX_VALUE , #BOX_0_ASSET_1_BLANK , myAmmo, #BOX_0_ASSET_1_IMAGE , #HUD_OFFSET 
+DrawTilesDirect #HUD_BANK, HUD__0_2_STRING, #14, #2, #HUD_OFFSET

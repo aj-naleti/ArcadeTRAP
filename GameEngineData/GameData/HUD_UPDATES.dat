@@ -1,0 +1,30 @@
+;; *************** HUD_UPDATES.dat ***************
+;; HUD includes export. Saturday, April 18, 2026 1:20:47 AM
+
+updateHudElement0:
+DrawTilesDirect #HUD_BANK, HUD__0_0_STRING, #1, #2, #HUD_OFFSET
+ RTS
+
+updateHudElement1:
+DrawVariableTiles #6, #2, #BOX_0_ASSET_1_MAX_VALUE , #BOX_0_ASSET_1_BLANK , myAmmo, #BOX_0_ASSET_1_IMAGE , #HUD_OFFSET 
+ RTS
+
+updateHudElement2:
+DrawTilesDirect #HUD_BANK, HUD__0_2_STRING, #14, #2, #HUD_OFFSET
+ RTS
+
+updateHudElement3:
+ RTS
+
+updateHudElement4:
+ RTS
+
+updateHudElement5:
+ RTS
+
+updateHudElement6:
+ RTS
+
+updateHudElement7:
+ RTS
+
